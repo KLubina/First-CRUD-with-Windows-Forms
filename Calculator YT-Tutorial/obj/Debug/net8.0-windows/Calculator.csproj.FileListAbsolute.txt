@@ -18,3 +18,6 @@ C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\GitHubDesktop\Csharp\Csharp\Ca
 C:\Users\krist\OneDrive - Kalaidos Bildungsgruppe AG\Desktop\GitHubDesktopLaptop\Csharp\Csharp\Calculator\obj\Debug\net8.0-windows\Calculator.dll
 C:\Users\krist\OneDrive - Kalaidos Bildungsgruppe AG\Desktop\GitHubDesktopLaptop\Csharp\Csharp\Calculator\obj\Debug\net8.0-windows\refint\Calculator.dll
 C:\Users\krist\OneDrive - Kalaidos Bildungsgruppe AG\Desktop\GitHubDesktopLaptop\Csharp\Csharp\Calculator\obj\Debug\net8.0-windows\Calculator.pdb
+C:\Users\krist\OneDrive - Kalaidos Bildungsgruppe AG\Desktop\GitHubDesktopLaptop\Csharp\Csharp\Calculator YT-Tutorial\obj\Debug\net8.0-windows\Calculator.dll
+C:\Users\krist\OneDrive - Kalaidos Bildungsgruppe AG\Desktop\GitHubDesktopLaptop\Csharp\Csharp\Calculator YT-Tutorial\obj\Debug\net8.0-windows\refint\Calculator.dll
+C:\Users\krist\OneDrive - Kalaidos Bildungsgruppe AG\Desktop\GitHubDesktopLaptop\Csharp\Csharp\Calculator YT-Tutorial\obj\Debug\net8.0-windows\Calculator.pdb
