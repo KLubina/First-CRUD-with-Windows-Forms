@@ -17,3 +17,9 @@
 <p>Die Aktualisierung des jeweils anderen Feldes erfolgt unmittelbar bei jeder Änderung des Feldinhalts ohne irgendein Aktualisierungsbutton.</p>
 
 # Erster Rechner_1.1
+## Erwarteter Fehler-Meldung erstellen
+<p>Wenn ein Nutzer eine erwartete ungültige Eingabe macht soll eine Nachricht aufkommen.</p>
+<p>Als ungültige Eingabe gilt:</p>
+- Falsche Datenformat
+- Ausserhalb des Wertebereichs
+- Leeres Feld>
