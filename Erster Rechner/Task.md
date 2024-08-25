@@ -19,7 +19,7 @@
 # Erster Rechner_1.1
 ## Erwarteter Fehler-Meldung erstellen
 <p>Wenn ein Nutzer eine erwartete ungültige Eingabe macht soll eine spezifische Nachricht aufkommen.</p>
-<p>Als ungültige Eingabe gilt:</p>
+<p>Als erwartete ungültige Eingabe gilt:</p>
 <p>- Falsche Datenformat</p>
 <p>- Ausserhalb des Wertebereichs</p>
 <p>- Leeres Feld</p>
