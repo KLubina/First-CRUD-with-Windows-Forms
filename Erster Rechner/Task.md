@@ -20,6 +20,6 @@
 ## Erwarteter Fehler-Meldung erstellen
 <p>Wenn ein Nutzer eine erwartete ungültige Eingabe macht soll eine Nachricht aufkommen.</p>
 <p>Als ungültige Eingabe gilt:</p>
-- Falsche Datenformat
-- Ausserhalb des Wertebereichs
-- Leeres Feld>
+<p>- Falsche Datenformat</p>
+<p>- Ausserhalb des Wertebereichs</p>
+<p>- Leeres Feld</p>
