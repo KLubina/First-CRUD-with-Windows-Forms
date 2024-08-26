@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ErsterRechner_1.1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc0ac4b97c94a3bde642e524e7e587f7694c2b28")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+657c80c6ce666c73dba167bd8e1b9f26d3ad0f4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ErsterRechner_1.1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ErsterRechner_1.1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

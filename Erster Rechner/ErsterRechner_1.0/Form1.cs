@@ -10,11 +10,6 @@ namespace ErsterRechner
       InitializeComponent();
       }
 
-    private void label1_Click( object sender, EventArgs e )
-      {
-
-      }
-
     private void textBox1_TextChanged( object sender, EventArgs e )
       {
 
@@ -47,12 +42,6 @@ namespace ErsterRechner
         // Leere das Ausgabefeld
         byte_output.Text = "";
         }
-      }
-
-
-    private void label2_Click( object sender, EventArgs e )
-      {
-
       }
     }
   }

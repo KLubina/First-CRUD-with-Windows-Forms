@@ -43,7 +43,6 @@
       label_input.Size = new Size( 369, 32 );
       label_input.TabIndex = 0;
       label_input.Text = "gebe eine Zahl von 0 bis 255 ein:";
-      label_input.Click +=  label1_Click ;
       // 
       // label_output
       // 
@@ -54,7 +53,6 @@
       label_output.Size = new Size( 497, 32 );
       label_output.TabIndex = 1;
       label_output.Text = "hier ist das Doppelte der eingegebenen Zahl:";
-      label_output.Click +=  label2_Click ;
       // 
       // byte_input
       // 
